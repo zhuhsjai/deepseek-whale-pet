@@ -1,0 +1,17 @@
+# 运行时自动生成的状态文件（不要提交）
+config.json
+weather_cache.json
+pet_pos.json
+pet_tokens.json
+hook_debug.log
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 系统
+.DS_Store
+Thumbs.db
